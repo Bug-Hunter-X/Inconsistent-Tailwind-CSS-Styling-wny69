@@ -1,0 +1,3 @@
+# Inconsistent Tailwind CSS Styling
+
+This repository demonstrates a bug where Tailwind CSS classes are not consistently applying styles as expected.  The issue is not related to any particular component or plugin but seems to stem from a broader issue with style application. The bug and a potential solution are detailed in the `bug.js` and `bugSolution.js` files respectively.  The example shows an element with Tailwind classes applied but not producing the intended styling result.  Further investigation might be needed to pinpoint the exact cause of the inconsistency.
